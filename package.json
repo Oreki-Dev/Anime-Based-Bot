@@ -1,0 +1,29 @@
+{
+  "name": "Ayumi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animequotes": "^1.1.2",
+    "ascii-table": "0.0.9",
+    "bad-words": "^3.0.4",
+    "discord-buttons": "^3.1.1",
+    "discord.js": "^12.5.3",
+    "glob": "^7.1.7",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-kitsu": "^1.1.1",
+    "quickmongo": "^3.0.2",
+    "weather-js": "^2.0.0",
+    "weky": "^2.0.3"
+  }
+}
