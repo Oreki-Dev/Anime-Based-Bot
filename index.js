@@ -1,3 +1,3 @@
-const Client = require("./Struct/HorieClient");
+const Client = require("./Struct/Client");
 const client = new Client();
 client.start();
