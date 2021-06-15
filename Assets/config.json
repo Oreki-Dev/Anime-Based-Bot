@@ -4,8 +4,8 @@
 "owners": [""],
 "mongo": "",
 "readyChannel": "",
-"bugChannel: "",
-"joinChannel: "",
-"leaveChannel: "",
-"uploadChannel: ""
+"bugChannel": "",
+"joinChannel": "",
+"leaveChannel": "",
+"uploadChannel": ""
 }
