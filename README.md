@@ -14,6 +14,17 @@ This Bot is an open source Discord bot coded in JavaScript with [Discord.js](htt
 - [X] ChatBot
 
 ## Setup ⚙️
+Edit The `config.json` And You're Ready To Go
 ```
-
+{ 
+"token": "",
+"prefix": "",
+"owners": [""],
+"mongo": "",
+"readyChannel": "",
+"bugChannel": "",
+"joinChannel": "",
+"leaveChannel": "",
+"uploadChannel": ""
+}
 ```
