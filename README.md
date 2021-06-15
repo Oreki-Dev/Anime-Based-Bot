@@ -12,3 +12,8 @@ This Bot is an open source Discord bot coded in JavaScript with [Discord.js](htt
 - [x] Utility
 - [X] Image
 - [X] ChatBot
+
+## Setup ⚙️
+```
+
+```
