@@ -2,5 +2,10 @@
 "token": "",
 "prefix": "",
 "owners": [""],
-"mongo": ""
+"mongo": "",
+"readyChannel": "",
+"bugChannel: "",
+"joinChannel: "",
+"leaveChannel: "",
+"uploadChannel: ""
 }
