@@ -3,7 +3,7 @@
 
 This Bot is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [Me](https://github.com/Drago-dev24).  
 
-## Categories 📑
+## Categories 
 - [x] Fun
 - [x] Anime
 - [x] Gif Action
@@ -14,7 +14,7 @@ This Bot is an open source Discord bot coded in JavaScript with [Discord.js](htt
 - [X] Image
 - [X] ChatBot
 
-## Setup ⚙️
+## Setup 
 Edit The `config.json` And You're Ready To Go
 ```
 { 
@@ -32,5 +32,5 @@ Edit The `config.json` And You're Ready To Go
 Install All The Packages By Doing `npm install`
 Start The Bot By `node index.js`
 
-## License ©️
+## License 
 See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
