@@ -1,7 +1,7 @@
 # Anime-Based-Bot
 ![](https://forthebadge.com/images/featured/featured-built-with-love.svg)
 
-This Bot is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [Me](https://github.com/Drago-dev24).  
+This Bot is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [Me](https://github.com/Oreki-Dev).  
 
 ## Categories 
 - [x] Fun
